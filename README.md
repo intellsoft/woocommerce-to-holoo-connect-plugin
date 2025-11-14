@@ -32,9 +32,7 @@
 
 این افزونه توسط **گروه نرم‌افزاری اینتل‌سافت (Intellsoft)** توسعه داده شده است.
 🔗 **سایت برنامه‌نویس:**
-[[https://intellsoft.ir]([https://intellsoft.ir](https://intellsoft.ir/woocommerce-integration-with-accounting-software/))
-](https://intellsoft.ir/woocommerce-integration-with-accounting-software/)
-تخصص‌ها:
+[افزونه اتصال ووکامرس به نرم‌افزارهای حسابداری](https://intellsoft.ir/woocommerce-integration-with-accounting-software/)
 
 * توسعه افزونه‌های اختصاصی وردپرس
 * یکپارچه‌سازی سیستم‌های حسابداری با فروشگاه‌ها
