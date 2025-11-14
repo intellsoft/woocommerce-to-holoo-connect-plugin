@@ -32,8 +32,8 @@
 
 این افزونه توسط **گروه نرم‌افزاری اینتل‌سافت (Intellsoft)** توسعه داده شده است.
 🔗 **سایت برنامه‌نویس:**
-[https://intellsoft.ir](https://intellsoft.ir)
-
+[[https://intellsoft.ir]([https://intellsoft.ir](https://intellsoft.ir/woocommerce-integration-with-accounting-software/))
+](https://intellsoft.ir/woocommerce-integration-with-accounting-software/)
 تخصص‌ها:
 
 * توسعه افزونه‌های اختصاصی وردپرس
