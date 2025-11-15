@@ -2,9 +2,9 @@
 
 ### تصاویر افزونه
 
-![screenshot1](https://lh3.googleusercontent.com/d/1RrP9UZui7CzCYRIcWAIIkMoOf-F5zky9)
-![screenshot2](https://lh3.googleusercontent.com/d/1qdtSv-Nd_SRkIxQztsekEg8YVmGG-Urj)
-![screenshot3](https://lh3.googleusercontent.com/d/1E4EZbA2jIE6oC4Mdw5-eX-ei-fMSwOzF)
+![افزونه اتصال محصولات ووکامرس با نرم‌افزارهای حسابداری هلو](https://lh3.googleusercontent.com/d/1RrP9UZui7CzCYRIcWAIIkMoOf-F5zky9)
+![افزونه اتصال محصولات ووکامرس با نرم‌افزارهای حسابداری هلو](https://lh3.googleusercontent.com/d/1qdtSv-Nd_SRkIxQztsekEg8YVmGG-Urj)
+![افزونه اتصال محصولات ووکامرس با نرم‌افزارهای حسابداری هلو](https://lh3.googleusercontent.com/d/1E4EZbA2jIE6oC4Mdw5-eX-ei-fMSwOzF)
 
 ---
 
